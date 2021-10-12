@@ -6,7 +6,7 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 :mailbox: you can Reach out😇
  
- [![Linkedin Badge](https://img.shields.io/badge/-Christian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/christian-mgbekwute) [![Mail Badge](https://img.shields.io/badge/-mgbekwutechristian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mgbekwutechristian91@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Christian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-mgbekwute) [![Mail Badge](https://img.shields.io/badge/-mgbekwutechristian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mgbekwutechristian91@gmail.com)
  
 
 - 🔭 I’m currently working with @Decagon
