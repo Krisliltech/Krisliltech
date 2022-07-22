@@ -14,7 +14,7 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 - 🤔 I’m looking for a challenging project to hop on, and I'm also open to collaborations 😊. 
 <!-- - checkout [My portfolio website]("https://muazuabu.netlify.app/") -->
 - 📫 How to reach me: mgbekwutechristian91@gmail.com.
-- 😄 observation: I know my name can be difficult to pronounce esp for a first timer😃, buh it fine, you can just call me Chris
+- 😄 observation: I know my last name can be difficult to pronounce esp for a first timer😃, buh it fine, you can just call me Chris
 - ⚡ Fun fact: I love movies and football. 
 <!-- - am a music freak, i do not even remember that i need to EAT whenever i am in my music realm, a foodie like me😃... ikr😏, it still amuses me too -->
 
