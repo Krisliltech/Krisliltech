@@ -1,15 +1,15 @@
 ## Hi I'm Christian <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mgbekwute Christian, i'm a full stack developer(Node Engineer). <!-- and a UI/UX Designer.  -->
-I turn ideas/abstraction into real life products.
-I Spend most of time coding outstanding projects capitalizing on exceptional user experience and scalable applications.
+I'm Mgbekwute Christian, I'm a full stack developer(Node Engineer). <!-- and a UI/UX Designer.  -->
+I turn ideas/abstractions into real-life products.
+I Spend most of my time coding outstanding projects capitalizing on exceptional user experience and scalable applications.
 
 :mailbox: you can Reach out😇
  
  [![Linkedin Badge](https://img.shields.io/badge/-Christian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-mgbekwute) [![Mail Badge](https://img.shields.io/badge/-mgbekwutechristian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mgbekwutechristian91@gmail.com)
  
 
-- 🔭 I’m currently working with @Decagon
+<!-- - 🔭 I’m currently working @Decagon -->
 - :computer: Most used line of code `git commit -m "finished implementing issue section"`
 - 🤔 I’m looking for a challenging project to hop on, and I'm also open to collaborations 😊. 
 <!-- - checkout [My portfolio website]("https://muazuabu.netlify.app/") -->
